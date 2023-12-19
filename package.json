@@ -1,0 +1,24 @@
+{
+  "name": "mfa",
+  "version": "1.0.0",
+  "description": "A js library for Multi-factor authentication (MFA).",
+  "main": "./lib/mfa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishadil/MFAjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishadil/MFAjs/issues"
+  },
+  "homepage": "https://github.com/nishadil/MFAjs#readme",
+  "keywords": [
+    "MFA",
+    "2FA",
+    "MFAjs"
+  ],
+  "author": "Nishadil.dev",
+  "license": "MIT"
+}
